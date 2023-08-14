@@ -19,7 +19,7 @@ where peaksNum is the number of times the patient inhaled,
 inTime is inhalation time and exTime is exhalation time in minutes.
 
 
-### components
+### components:
 - Arduino Uno
 - Ultrasonic sensor Module HC-SR04
 
