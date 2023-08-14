@@ -7,7 +7,7 @@ Simply, the project idea is to measure the breath rate and inhalation and exhala
 
 </p>
 
-## Contributors
+### Contributors
 - [Ayat Tarek](https://github.com/)
 - [Biatriss Boshra](https://github.com/)
 - [Shiamaa Kamel](https://github.com/)
