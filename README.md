@@ -7,6 +7,10 @@ Simply, the project idea is to measure the breath rate and inhalation and exhala
 
 </p>
 
+### components
+- Arduino Uno
+- Ultrasonic sensor Module HC-SR04
+
 ### Contributors
 - [Ayat Tarek](https://github.com/)
 - [Biatriss Boshra](https://github.com/)
