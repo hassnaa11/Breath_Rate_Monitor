@@ -28,7 +28,7 @@ inTime is inhalation time and exTime is exhalation time in minutes.
 ![image](https://user-images.githubusercontent.com/111397736/260558502-f584830d-e1ef-48d0-9df2-9a049e35599b.PNG)
 
 ## Contributors
-- [Ayat Tarek](https://github.com/)
+- [Ayat Tarek](https://github.com/Ayat-Tarek)
 - [Biatriss Boshra](https://github.com/)
 - [Shiamaa Kamel](https://github.com/)
 - [Hassnaa Hossam](https://github.com/hassnaa11)
