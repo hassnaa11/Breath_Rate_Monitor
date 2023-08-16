@@ -6,6 +6,7 @@ Abnormal breathing syndromes are disorders that occur in the breathing system wh
 </p>
 
 ### How it works:
+
 We used the main idea of the ultrasonic sensor which is how it sends and receives a sound wave to detect the distance between the sensor and the target needed. 
 So here we made our target (the patient’s chest) to detect it going forward and back to detect the breathing abnormalities if existed. <br>
 
@@ -20,6 +21,7 @@ inTime is inhalation time and exTime is exhalation time in minutes.
 
 
 ### components:
+
 - Arduino Uno
 - Ultrasonic sensor Module HC-SR04
 
@@ -29,6 +31,6 @@ inTime is inhalation time and exTime is exhalation time in minutes.
 
 ## Contributors
 - [Ayat Tarek](https://github.com/Ayat-Tarek)
-- [Biatriss Boshra](https://github.com/)
-- [Shiamaa Kamel](https://github.com/)
+- [Biatriss Boshra](https://github.com/Biatris-003)
+- [Shiamaa Kamel](https://github.com/Shaimaakamel474)
 - [Hassnaa Hossam](https://github.com/hassnaa11)
